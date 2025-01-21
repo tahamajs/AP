@@ -254,14 +254,3 @@ This repository was created as part of the coursework for the Advanced Programmi
 ## Contact
 
 If you have any questions or suggestions, please open an issue or submit a pull request.
-
----
-
-## Additional Resources
-
-- **SFML Documentation:** [SFML Official Site](https://www.sfml-dev.org/documentation/2.5.1/)
-- **C++ Reference:** [cplusplus.com](http://www.cplusplus.com/reference/) or [cppreference.com](https://en.cppreference.com/w/)
-
----
-
-Feel free to explore each assignment folder for detailed code implementations, reports, and additional resources related to each project.
